@@ -1,6 +1,6 @@
 <h1 align="center">Hey Fellow Builders 👋, I'm <span style="color:#0b7285;">Manmath Jukale</span></h1>
 <h2 align="center">Engineering Scalable Backends • Powering AI Experiences • Building Impactful Systems</h2>
-<h2 align="center">Backend Developer • Software Engineer • AI Enthusiast • Graduate Student @ Binghamton University</h2>
+<h3 align="center">Backend Developer • Software Engineer • AI Enthusiast • Graduate Student @ Binghamton University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JukaleManmath&label=Profile%20views&color=0e75b6&style=flat" alt="JukaleManmath" />
