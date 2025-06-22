@@ -1,6 +1,6 @@
 <h1 align="center">Hey Fellow Builders 👋, I'm <span style="color:#0b7285;">Manmath Jukale</span></h1>
 <h2 align="center">Engineering Scalable Backends • Powering AI Experiences • Building Impactful Systems</h2>
-<h3 align="center">Backend Developer | AI Enthusiast | Graduate Student @ Binghamton University</h3>
+<h2 align="center">Backend Developer • Software Engineer • AI Enthusiast • Graduate Student @ Binghamton University</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JukaleManmath&label=Profile%20views&color=0e75b6&style=flat" alt="JukaleManmath" />
@@ -10,13 +10,12 @@
 
 ### 👨‍💻 About Me
 
-🎓 Master’s student in **Computer Science** at **Binghamton University (SUNY)**  
-💻 Passionate **Backend Developer** with hands-on experience in building scalable, secure, and production-ready APIs  
-🧠 **AI Enthusiast** actively working on integrating LLMs, vector search, and retrieval-augmented generation (RAG) into backend systems  
-🛠️ Proficient in **FastAPI**, **PostgreSQL**, **Redis**, **Docker**, and **AWS**, with a strong foundation in system design and microservices  
-📊 Experienced in developing real-time data pipelines and intelligent automation using Kafka, Celery, and background workers  
-🚀 Currently building **LLM-native backend applications** using local & hosted models (Ollama, Hugging Face, Together.ai) with tools like **LangChain**, **ChromaDB**, and **Pinecone**  
-📌 Committed to delivering robust software that creates real-world impact through performance, modularity, and meaningful user experience
+🎓 I'm currently pursuing my **Master’s in Computer Science** at **Binghamton University (SUNY)**, with a focus on backend systems and applied AI.  
+💻 As a **Backend Developer** and **Software Engineer**, I specialize in building secure, scalable, and production-ready web services and APIs.  
+🧠 I'm an **AI Enthusiast**, passionate about embedding large language models (LLMs), vector databases, and **retrieval-augmented generation (RAG)** pipelines into real-world backend applications.  
+⚙️ I work with modern backend stacks including **FastAPI**, **PostgreSQL**, **Redis**, **Docker**, and **AWS**, along with experience in **Kafka**, **Celery**, and microservice-based architectures.  
+📈 My work includes building **real-time data pipelines**, job schedulers, and AI-powered endpoints that integrate with **LangChain**, **ChromaDB**, **Pinecone**, and **Ollama**.  
+🚀 Whether it's designing performant APIs, implementing secure auth systems, or enabling semantic search with LLMs — I strive to deliver systems that are **modular, fast, and impactful**.
 
 ---
 
@@ -34,17 +33,49 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/>
+
+  <!-- Backend Frameworks -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+
+  <!-- Databases & Search -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF5C35?style=flat&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-00B8FF?style=flat&logo=apache&logoColor=white"/>
+
+  <!-- DevOps & Infrastructure -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+
+  <!-- Messaging & Background Workers -->
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
+
+  <!-- AI / LLMs / NLP -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-00B894?style=flat&logo=promptengineering&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
