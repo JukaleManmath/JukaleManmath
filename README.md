@@ -1,6 +1,6 @@
 <h1 align="center">Hey Fellow Builders 👋, I'm <span style="color:#0b7285;">Manmath Jukale</span></h1>
 <h2 align="center">Engineering Scalable Backends • Powering AI Experiences • Building Impactful Systems</h2>
-<h3 align="center">Graduate Student | Software Engineer | AI-Integrated Backend Developer</h3>
+<h3 align="center">Backend Developer | AI Enthusiast | Graduate Student @ Binghamton University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JukaleManmath&label=Profile%20views&color=0e75b6&style=flat" alt="JukaleManmath" />
@@ -10,12 +10,13 @@
 
 ### 👨‍💻 About Me
 
-🎓 Master’s Student in **Computer Science** @ **Binghamton University (SUNY)**  
-💼 Experienced **Software Engineer** with a background in **FastAPI**, **PostgreSQL**, and **AWS**  
-🚀 Building AI-powered applications with **LLMs**, **LangChain**, **ChromaDB**, and **Redis**  
-📦 Skilled in scalable microservices, JWT auth systems, and real-time data APIs  
-🧠 Currently integrating **local & hosted LLMs** to build AI-native backend architectures  
-📌 Passionate about building secure, performant, and meaningful software for the real world
+🎓 Master’s student in **Computer Science** at **Binghamton University (SUNY)**  
+💻 Passionate **Backend Developer** with hands-on experience in building scalable, secure, and production-ready APIs  
+🧠 **AI Enthusiast** actively working on integrating LLMs, vector search, and retrieval-augmented generation (RAG) into backend systems  
+🛠️ Proficient in **FastAPI**, **PostgreSQL**, **Redis**, **Docker**, and **AWS**, with a strong foundation in system design and microservices  
+📊 Experienced in developing real-time data pipelines and intelligent automation using Kafka, Celery, and background workers  
+🚀 Currently building **LLM-native backend applications** using local & hosted models (Ollama, Hugging Face, Together.ai) with tools like **LangChain**, **ChromaDB**, and **Pinecone**  
+📌 Committed to delivering robust software that creates real-world impact through performance, modularity, and meaningful user experience
 
 ---
 
