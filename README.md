@@ -1,5 +1,4 @@
 <h1 align="center">Hey Fellow Builders 👋, I'm <span style="color:#0b7285;">Manmath Jukale</span></h1>
-<h2 align="center">Engineering Scalable Backends • Powering AI Experiences • Building Impactful Systems</h2>
 <h3 align="center">Backend Developer • Software Engineer • AI Enthusiast • Graduate Student @ Binghamton University</h3>
 
 <p align="center">
