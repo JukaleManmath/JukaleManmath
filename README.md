@@ -13,7 +13,7 @@
 ## 💡 About Me
 
 - 🛠️ Backend specialist with a love for building **robust, scalable APIs** and distributed systems.
-- 🤖 Applied AI engineer—delivering **real-world ML solutions** in NLP, Computer Vision, and Data Science.
+- 🤖 Applied AI engineer delivering **real world ML solutions** in NLP, Computer Vision, and Data Science.
 - ☁️ Cloud native: Deploying, automating, and scaling with **AWS, GCP, Docker, Kubernetes**.
 - 💬 Always exploring new tech, collaborating, and solving challenging problems.
 
