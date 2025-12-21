@@ -92,7 +92,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="120" alt="AI Animation"/>
   <br>
   <b>“Turning data into decisions, and code into impact.”</b>
 </div>
