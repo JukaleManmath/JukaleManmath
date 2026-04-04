@@ -13,7 +13,7 @@
 ## 💡 About Me
 
 - 🛠️ Backend specialist with a love for building **robust, scalable APIs** and distributed systems.
-- ☁️ Cloud native: Deploying, automating, and scaling with **AWS, GCP, Docker, Kubernetes**.
+- ☁️ Cloud native: Deploying, automating, and scaling with **AWS, Docker, Kubernetes**.
 - 💬 Always exploring new tech, collaborating, and solving challenging problems.
 
 ---
@@ -39,8 +39,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-009688?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00BFAE?style=for-the-badge)
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
