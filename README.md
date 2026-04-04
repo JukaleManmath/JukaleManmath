@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=F75C7E&center=true&vCenter=true&width=850&lines=Backend+%26+Applied+AI+Engineer;Turning+Data+Into+Decisions;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=F75C7E&center=true&vCenter=true&width=850&lines=Backend+Engineer;Turning+Data+Into+Decisions;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
 
   <br>
   <img src="https://user-images.githubusercontent.com/76866563/228420688-2fb6c6c3-8e9f-4c8b-b2a3-8e224b5b6d20.gif" height="180" alt="AI Animation"/>
