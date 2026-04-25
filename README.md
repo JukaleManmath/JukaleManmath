@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- HERO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I%E2%80%99m+Jukale+Manmath;Backend+%26+Distributed+Systems+Engineer;Production-ready+APIs+%7C+Reliability+%7C+Performance;AI-powered+applications+%7C+RAG+%7C+Agent+evaluation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I%E2%80%99m+Jukale+Manmath;Backend+%26+Distributed+Systems+Engineer;I+Build+Reliable+Platforms+%26+APIs;I+Like+Kafka%2C+Redis%2C+Postgres+%26+LLMs" alt="Typing SVG" />
 
   <p>
     <strong>M.S. Computer Science @ Binghamton University</strong> (Expected May 2026) · Backend / Distributed Systems / Platform / AI Engineering
@@ -15,6 +15,9 @@
     <a href="https://github.com/JukaleManmath"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
     <img src="https://komarev.com/ghpvc/?username=JukaleManmath&style=for-the-badge&color=0b6aa2" alt="Profile views" />
   </p>
+
+  <!-- subtle animated divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=2&section=header" width="980" alt="divider"/>
 
 </div>
 
@@ -34,7 +37,7 @@ I build **reliable backend systems that scale** — services with clear contract
 - **Production-ready APIs & platforms:** REST/gRPC, versioned contracts, auth, rate limiting, and safe rollouts
 - **Event-driven backends:** Kafka/SQS-style workflows, background jobs, retries, and dead-letter handling
 - **Data-intensive systems:** SQL-first design, indexing, caching, search, and correctness under concurrency
-- **AI-powered applications:** document understanding, PHI de-identification, agent evaluation, and retrieval systems
+- **AI-powered applications:** document understanding, de-identification patterns, agent evaluation, and retrieval systems
 
 ---
 
@@ -82,7 +85,7 @@ Open-source **AI agent evaluation** framework with YAML test cases, automatic sc
 - Clear, testable policies and predictable limits
 
 ### 4) MedGuard
-AI PHI de-identification platform using **FastAPI + NLP + LLM validation** pipeline.
+AI de-identification platform using **FastAPI + NLP + LLM validation** pipeline.
 - Accuracy-focused redaction + validation loop
 - Secure handling patterns for sensitive data
 
@@ -93,20 +96,44 @@ Systems project focused on **performance, concurrency, and pipelines** for passw
 
 ---
 
-## Experience Highlights
+## Skill Focus (continuously improving)
 
-**Michigan Health Information Network**
-- Reduced API latency from **620ms → 78ms** via profiling, query/index tuning, and caching
-- Built **AI-powered document parsing workflows** and improved data validation pipelines
-- Worked on secure health data systems with AWS/distributed backend exposure
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=python,java" height="40" alt="Python, Java"/>
+      <br/>
+      <b>Backend Engineering</b>
+      <br/>
+      APIs · Auth · Background jobs · Observability
+      <br/>
+      <sub>Focus: clear contracts + safe ops</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="40" alt="AWS, Docker, Kubernetes"/>
+      <br/>
+      <b>Platform / Cloud</b>
+      <br/>
+      Containers · CI/CD · IaC · Reliability
+      <br/>
+      <sub>Focus: repeatable deployments</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=postgres,redis" height="40" alt="Postgres, Redis"/>
+      <br/>
+      <b>Distributed Systems</b>
+      <br/>
+      Kafka/queues · Caching · Rate limiting
+      <br/>
+      <sub>Focus: latency + correctness</sub>
+    </td>
+  </tr>
+</table>
 
-**Microsoft**
-- Built testing automation and improved dashboard query performance
-- Practiced production engineering discipline: correctness, monitoring, and maintainability
-
-**Callvcal**
-- Resolved race conditions and double-booking issues with concurrency-safe design
-- Built async job queues with **Celery + Redis**, versioned APIs, and idempotent integrations
+<p align="center">
+  <!-- animated snake (contribution graph) -->
+  <img src="https://github.com/JukaleManmath/JukaleManmath/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -126,13 +153,6 @@ Systems project focused on **performance, concurrency, and pipelines** for passw
 - Strong with: graphs, DP, greedy, intervals, concurrency patterns, and SQL
 
 > Add your LeetCode link here when ready: `https://leetcode.com/<your-handle>/`
-
----
-
-## Currently Learning / Building
-- Distributed systems: partitions, replication, consensus basics, and failure testing
-- Performance engineering: profiling, load testing, and SLO-driven tuning
-- LLM systems: evaluation harnesses, RAG reliability, and tool-using agents in production
 
 ---
 
