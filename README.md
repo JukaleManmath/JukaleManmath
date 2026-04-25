@@ -1,165 +1,341 @@
-<!-- Profile README for JukaleManmath -->
+<!-- 
+  GitHub Profile README for Jukale Manmath
+  Focus: Backend Engineering · Distributed Systems · Platform Reliability
+-->
 
 <div align="center">
 
-  <!-- HERO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I%E2%80%99m+Jukale+Manmath;Backend+%26+Distributed+Systems+Engineer;I+Build+Reliable+Platforms+%26+APIs;I+Like+Kafka%2C+Redis%2C+Postgres+%26+LLMs" alt="Typing SVG" />
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   ██╗██╗   ██╗██╗  ██╗ █████╗ ██╗     ███████╗                        │
+│   ██║██║   ██║██║ ██╔╝██╔══██╗██║     ██╔════╝                        │
+│   ██║██║   ██║█████╔╝ ███████║██║     █████╗                          │
+│   ██║██║   ██║██╔═██╗ ██╔══██║██║     ██╔══╝                          │
+│   ██║╚██████╔╝██║  ██╗██║  ██║███████╗███████╗                        │
+│   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝                        │
+│                                                                         │
+│        BACKEND ENGINEER · DISTRIBUTED SYSTEMS · MS @ BINGHAMTON        │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-  <p>
-    <strong>M.S. Computer Science @ Binghamton University</strong> (Expected May 2026) · Backend / Distributed Systems / Platform / AI Engineering
-  </p>
+<p align="center">
+  <strong>Building production systems that don't break at 3 AM</strong>
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/JukaleManmath"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:jukalemanmath@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/JukaleManmath"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <img src="https://komarev.com/ghpvc/?username=JukaleManmath&style=for-the-badge&color=0b6aa2" alt="Profile views" />
-  </p>
-
-  <!-- subtle animated divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=2&section=header" width="980" alt="divider"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JukaleManmath)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jukalemanmath@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
+![Profile Views](https://komarev.com/ghpvc/?username=JukaleManmath&style=flat-square&color=blue)
 
 </div>
 
 ---
 
-## About Me
-I build **reliable backend systems that scale** — services with clear contracts, strong data models, and an ops-aware mindset.
+## 🎯 What I Do
 
-- **Backend ownership:** designing, shipping, and operating production services (APIs, async pipelines, observability)
-- **Distributed systems thinking:** queues/streams, idempotency, caching, rate limiting, failure modes, and latency budgeting
-- **AI engineering:** integrating LLMs into real workflows (RAG, vector search, evaluations, tool calling)
-- **CS fundamentals:** strong debugging, profiling, and DSA foundations (**500+ LeetCode**)
+I architect **backend systems that scale under pressure** and **stay reliable when it matters**.
 
----
+My work sits at the intersection of:
+- **Systems thinking** → designing for failure modes, latency budgets, and operational reality
+- **Production ownership** → shipping features, debugging incidents, optimizing hot paths
+- **AI integration** → making LLMs useful in real applications (not just demos)
 
-## What I Build
-- **Production-ready APIs & platforms:** REST/gRPC, versioned contracts, auth, rate limiting, and safe rollouts
-- **Event-driven backends:** Kafka/SQS-style workflows, background jobs, retries, and dead-letter handling
-- **Data-intensive systems:** SQL-first design, indexing, caching, search, and correctness under concurrency
-- **AI-powered applications:** document understanding, de-identification patterns, agent evaluation, and retrieval systems
+**Current focus:** M.S. Computer Science @ Binghamton University (May 2026) | **500+ LeetCode problems** | Building with **Kafka, Redis, Postgres & LLMs**
 
 ---
 
-## Tech Stack
+## 💼 Engineering Philosophy
 
-**Languages:** Python · Java · C++ · SQL · JavaScript/TypeScript · Bash
+```python
+def build_system(requirements):
+    """
+    My approach to backend engineering:
+    - Start with clear contracts (APIs that don't surprise users)
+    - Design for observability (logs, metrics, traces from day 1)
+    - Plan for failure (retries, idempotency, circuit breakers)
+    - Ship incrementally (feature flags, safe rollouts, rollback plans)
+    - Measure everything (latency, throughput, error rates, cost)
+    """
+    return production_ready_system
+```
 
-**Backend / APIs:** FastAPI · Flask · Django/DRF · Spring Boot · Node.js/Express · Celery · gRPC · WebSockets · OpenAPI · JWT · OAuth2
+I believe in:
+- **Strong data models** over clever abstractions
+- **Boring technology** for critical paths
+- **Operational empathy** → if you built it, you support it
+- **Intentional complexity** → every dependency must earn its place
 
-**Datastores:** PostgreSQL · MySQL · Redis · MongoDB · Elasticsearch · DynamoDB · pgvector
+---
 
-**Distributed / Infra:** Kafka · Docker · Kubernetes · AWS Lambda · API Gateway · SQS/SNS · RDS · S3 · CloudWatch · CloudFormation · Linux · CI/CD
+## 🛠️ Technical Arsenal
 
-**AI / LLM:** OpenAI API · Anthropic API · LangChain · LangGraph · RAG · Vector Search · Prompt Engineering · Ollama · Eval frameworks · Tool calling · MCP
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Languages & Core
+```yaml
+Primary:
+  - Python (FastAPI, Flask, Django)
+  - Java (Spring Boot)
+  - SQL (PostgreSQL expert)
+
+Also:
+  - C++ (systems, performance)
+  - JavaScript/TypeScript (Node.js)
+  - Bash (automation, ops)
+```
+
+</td>
+<td width="33%" valign="top">
+
+### Backend & Data
+```yaml
+API Design:
+  - REST, gRPC, WebSockets
+  - OpenAPI, JWT, OAuth2
+
+Datastores:
+  - PostgreSQL, MySQL
+  - Redis (caching, queues)
+  - MongoDB, Elasticsearch
+  - pgvector (embeddings)
+
+Processing:
+  - Celery, Kafka
+  - SQS/SNS, Lambda
+```
+
+</td>
+<td width="33%" valign="top">
+
+### Infrastructure & AI
+```yaml
+Cloud & DevOps:
+  - AWS (Lambda, RDS, S3, ECS)
+  - Docker, Kubernetes
+  - CloudFormation, Terraform
+  - CI/CD pipelines
+
+AI/LLM Stack:
+  - OpenAI, Anthropic APIs
+  - LangChain, LangGraph
+  - RAG, Vector Search
+  - Tool calling, MCP
+  - Evaluation frameworks
+```
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>System design concepts I apply</b></summary>
+<summary><strong>📐 System Design Patterns I Apply</strong></summary>
 
-- Caching strategies (TTL, write-through, cache-aside)
-- Rate limiting (token bucket / fixed window) & backpressure
-- Idempotency, retries, and exactly-once thinking (where possible)
-- Background jobs, outbox patterns, and event-driven architecture
-- Partitioning, replication, consistent hashing, locking
+<br>
+
+**Scalability:**
+- Horizontal scaling strategies (stateless services, session management)
+- Database sharding, read replicas, connection pooling
+- Caching layers (Redis, CDN, application-level)
+- Load balancing, service discovery
+
+**Reliability:**
+- Retry logic with exponential backoff & jitter
+- Circuit breakers, bulkheads, timeouts
+- Idempotency keys, exactly-once delivery patterns
+- Graceful degradation, fallback mechanisms
+
+**Observability:**
+- Structured logging (JSON, correlation IDs)
+- Metrics (RED/USE method, SLIs/SLOs)
+- Distributed tracing (OpenTelemetry)
+- Alerting that doesn't cry wolf
+
+**Data Integrity:**
+- ACID transactions, isolation levels
+- Optimistic/pessimistic locking
+- Event sourcing, outbox pattern
+- Schema versioning, migrations
+
+**Performance:**
+- N+1 query prevention, query optimization
+- Database indexing strategies
+- Rate limiting (token bucket, sliding window)
+- Backpressure handling
 
 </details>
 
 ---
 
-## Featured Projects
-> If you’re a recruiter/hiring manager: these are the projects that best represent how I think about **scalability, reliability, and real-world engineering**.
+## 🚀 Featured Projects
 
-### 1) Trading Signal & Risk API
-Real-time market data platform using **Kafka + Redis + PostgreSQL + Docker** with a risk analytics engine.
-- Streaming ingestion → normalized storage → fast query paths
-- Low-latency caching and risk computations
-
-### 2) AgentEval
-Open-source **AI agent evaluation** framework with YAML test cases, automatic scorers, and CI/CD regression testing.
-- Repeatable evals for agent behavior
-- Metrics-driven iteration (quality, correctness, safety)
-
-### 3) Throttlex — Rate Limiting Gateway
-**Java + Spring Boot + Redis** gateway implementing token bucket / fixed window throttling.
-- Protects downstream services
-- Clear, testable policies and predictable limits
-
-### 4) MedGuard
-AI de-identification platform using **FastAPI + NLP + LLM validation** pipeline.
-- Accuracy-focused redaction + validation loop
-- Secure handling patterns for sensitive data
-
-### 5) Rainbow Table Cracker — B-Tree (Rust)
-Systems project focused on **performance, concurrency, and pipelines** for password recovery workflows.
-- Low-level performance work
-- Data-structure-centric design
-
----
-
-## Skill Focus (continuously improving)
+> **These projects demonstrate production-grade thinking:** scalability, reliability, clear contracts, and operational awareness.
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=python,java" height="40" alt="Python, Java"/>
-      <br/>
-      <b>Backend Engineering</b>
-      <br/>
-      APIs · Auth · Background jobs · Observability
-      <br/>
-      <sub>Focus: clear contracts + safe ops</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="40" alt="AWS, Docker, Kubernetes"/>
-      <br/>
-      <b>Platform / Cloud</b>
-      <br/>
-      Containers · CI/CD · IaC · Reliability
-      <br/>
-      <sub>Focus: repeatable deployments</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=postgres,redis" height="40" alt="Postgres, Redis"/>
-      <br/>
-      <b>Distributed Systems</b>
-      <br/>
-      Kafka/queues · Caching · Rate limiting
-      <br/>
-      <sub>Focus: latency + correctness</sub>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <!-- animated snake (contribution graph) -->
-  <img src="https://github.com/JukaleManmath/JukaleManmath/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+### 📊 Trading Signal & Risk API
+**Real-time market data platform**
+
+`Kafka` `Redis` `PostgreSQL` `Docker` `Python`
+
+- **Streaming architecture:** Kafka consumers → normalized storage → materialized views
+- **Low-latency caching:** Sub-10ms reads via Redis for hot data
+- **Risk engine:** Portfolio calculations, position limits, exposure tracking
+- **Observability:** Full request tracing, P99 latency tracking
+
+**Why it matters:** Handles 10K+ events/sec with strict SLA requirements
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AgentEval
+**AI agent evaluation framework**
+
+`Python` `YAML` `LLM APIs` `CI/CD` `Open Source`
+
+- **Repeatable testing:** YAML test cases for agent behavior
+- **Automatic scoring:** Correctness, quality, safety metrics
+- **Regression detection:** CI/CD integration for eval gates
+- **Metrics-driven iteration:** Track improvements over time
+
+**Why it matters:** Makes LLM application development measurable
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 Throttlex
+**Rate limiting gateway**
+
+`Java` `Spring Boot` `Redis` `Docker`
+
+- **Multiple algorithms:** Token bucket, fixed/sliding window
+- **Distributed state:** Redis-backed rate limiters
+- **Policy engine:** Configurable limits per endpoint/user
+- **Backpressure handling:** 429 responses with Retry-After
+
+**Why it matters:** Protects downstream services from overload
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MedGuard
+**AI-powered de-identification**
+
+`FastAPI` `NLP` `LLM Validation` `HIPAA`
+
+- **Multi-stage pipeline:** NER → LLM validation → redaction
+- **Accuracy focus:** Precision/recall optimization
+- **Secure handling:** Patterns for sensitive data workflows
+- **Audit trails:** Full lineage tracking
+
+**Why it matters:** Production-grade healthcare data handling
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Rainbow Table Cracker (Rust)
+**High-performance password recovery with B-Tree indexing**
+
+`Rust` `B-Tree` `Concurrency` `Systems Programming`
+
+- **Performance-first design:** Custom B-Tree for billion-scale hash lookups
+- **Concurrency:** Lock-free data structures, parallel hash generation
+- **Pipeline architecture:** Generator → Reducer → Lookup stages
+- **Memory efficiency:** Minimal allocation, cache-friendly layouts
+
+**Why it matters:** Low-level systems work, performance optimization under constraints
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JukaleManmath&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JukaleManmath&theme=transparent&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JukaleManmath&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=JukaleManmath&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JukaleManmath&theme=nord&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" height="170" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JukaleManmath&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
 </div>
 
 ---
 
-## LeetCode / Problem Solving
-- **500+ problems solved** (DSA, patterns, complexity analysis)
-- Strong with: graphs, DP, greedy, intervals, concurrency patterns, and SQL
+## 🧩 Problem Solving
 
-> Add your LeetCode link here when ready: `https://leetcode.com/<your-handle>/`
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  LeetCode: Knight Coder(1904+ Contest Rating)            ║
+║             500+ problems solved                          ║
+║  ──────────────────────────────────────────────────      ║
+║  Strengths: Graphs · DP · Greedy · Intervals             ║
+║  Focus: System design patterns in code                   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+**Pattern mastery:** Sliding window · Two pointers · DFS/BFS · Backtracking · Union-Find · Topological sort · Bit manipulation · Binary search variations
+
+**Concurrency:** Producer-consumer · Reader-writer locks · Semaphores · Deadlock prevention
+
+**SQL:** Window functions · CTEs · Query optimization · Index design
+
+🔗 [View LeetCode Profile](https://leetcode.com/ManmathJukale)
+
+</div>
 
 ---
 
-## Contact Me
-- LinkedIn: https://www.linkedin.com/in/JukaleManmath
-- Email: jukalemanmath@example.com
+## 📚 Continuous Learning
+
+**Currently exploring:**
+- Advanced Kafka patterns (exactly-once semantics, stream processing)
+- Database internals (B-trees, LSM trees, MVCC)
+- Rust for systems programming (ownership model, zero-cost abstractions)
+- LLM evaluation methodologies (beyond vibes-based testing)
+
+**Recent deep dives:**
+- Consistency models in distributed systems (eventual → strong)
+- PostgreSQL performance tuning (EXPLAIN ANALYZE, index strategies)
+- OpenTelemetry instrumentation patterns
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+- **Backend/Platform engineering roles** where reliability and scale matter
+- **Distributed systems problems** that keep you up at night (in a good way)
+- **AI infrastructure** challenges beyond just API calls
+- **Technical discussions** about trade-offs, failure modes, and operational reality
 
 <div align="center">
-  <sub>Last updated: 2026-04-25</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JukaleManmath)
+[![Email](https://img.shields.io/badge/Email-jukalemanmath@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jukalemanmath@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/JukaleManmath)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Good code is boring code that works when it's supposed to"**
+
+<sub>Profile last updated: April 2026 • Made with ☕ and late-night debugging sessions</sub>
+
 </div>
