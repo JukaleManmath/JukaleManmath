@@ -21,7 +21,7 @@ MS CS @ Binghamton University
 
 ## About
 
-Backend engineer focused on **production AI systems**, **scalable infrastructure**, and **reliability**. I build systems that work under load and make AI useful beyond demos.
+Backend engineer focused on **productionized software**, **AI/ML applications**, and **reliability**. I build end-to-end systems that work under load and make AI useful beyond demos.
 
 **Core areas:** Python/FastAPI, LLM agents & evals, async processing, cloud deployment, testing & observability.
 
@@ -49,13 +49,13 @@ Backend engineer focused on **production AI systems**, **scalable infrastructure
 
 ## 🚀 Featured Projects
 
-### **Panel Review** — AI-Powered Document Analysis
-`Python` `FastAPI` `LLM APIs` `PostgreSQL` `Production`
+### **[fetchapi](https://github.com/JukaleManmath/fetchapi)** — API-Grounded AI Integration Platform
+`Python` `FastAPI` `Next.js` `OpenAPI` `Docker` `MCP`
 
-Intelligent document review system leveraging LLMs for semantic analysis and classification.
-- Multi-stage processing pipeline with error handling
-- Semantic search via embeddings
-- Production deployment on AWS
+Completed open-source project that ingests OpenAPI specs and provides citation-backed API retrieval, validation, and integration-code generation for AI coding assistants.
+- Deterministic ingestion pipeline with validation and revision activation
+- Hybrid retrieval across API operations, schemas, and auth metadata
+- End-to-end backend + frontend architecture with automated testing and security checks
 
 ---
 
@@ -71,13 +71,12 @@ Automated evaluation framework for AI agents with repeatable test cases and scor
 
 ---
 
-### **MedGuard** — HIPAA-Compliant Data Processing
+### **MedGuard** — Healthcare Data De-Identification (POC)
 `FastAPI` `NLP` `LLM` `Security`
 
-Multi-stage pipeline for sensitive healthcare data de-identification and validation.
+Focused proof-of-concept for sensitive healthcare text de-identification and validation.
 - NER detection with LLM validation
-- Audit trails and compliance tracking
-- Production patterns for regulated data
+- Audit-oriented processing workflow
 
 ---
 
@@ -88,6 +87,13 @@ Multi-stage pipeline for sensitive healthcare data de-identification and validat
 ✓ **Performance** — Query optimization, caching, profiling  
 ✓ **Security** — Input validation, authentication, secrets management  
 ✓ **Operations** — Structured logging, metrics, tracing  
+
+---
+
+## 🌍 Open Source Contributions
+
+- **Upstream contribution via fork:** [standing-desks/twine#165](https://github.com/standing-desks/twine/pull/165) (merged)  
+  Added `terminal.cursor_style` configuration support with Rust + Swift implementation and tests, contributed through a fork-and-PR workflow.
 
 ---
 
